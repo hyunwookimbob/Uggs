@@ -1,0 +1,27 @@
+{
+    "name": "com.colliemollie.uggs",
+    "version": "0.1.0",
+    "displayName": "Uggs",
+    "description": "Unity Good Gaming Services is a UGS extension package.",
+    "unity": "2022.2",
+    "dependencies": {
+        "com.unity.addressables": "1.21.8",
+        "com.unity.services.authentication": "2.4.0"
+    },
+    "samples": [
+        {
+            "displayName": "Authentication",
+            "description": "Authentication using identity providers.",
+            "path": "Samples~/Authentication"
+        }
+    ],
+    "keywords": [
+        "UGS",
+        "UGS Authentication"
+    ],
+    "author": {
+        "name": "Hyunwoo Kim",
+        "email": "davidkimighty@gmail.com",
+        "url": "https://colliecollie.netlify.app"
+    }
+}
